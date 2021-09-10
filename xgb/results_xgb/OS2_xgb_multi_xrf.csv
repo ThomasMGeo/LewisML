@@ -1,0 +1,2 @@
+,target,MSE,MAE,day,month,year,model,version
+0,MultiXRF,1.0168588265740803,0.4287898345756533,25,8,2021,XGB,1.4.2
