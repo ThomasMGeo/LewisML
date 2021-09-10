@@ -1,0 +1,4 @@
+,well,target,label,RMSE,MAE,max_iter,day,month,year,model,objective,version
+0,E952,['Ti' 'Mg' 'Al' 'Ca' 'Si'],no_hpt,1.142128191486549,0.4786066250413466,250,24,8,2021,catboost,MultiRMSE,0.26.1
+1,E952,['Ti' 'Mg' 'Al' 'Ca' 'Si'],hpt,1.1000832168766181,0.4043995537893846,250,24,8,2021,catboost,MultiRMSE,0.26.1
+2,E952,['Ti' 'Mg' 'Al' 'Ca' 'Si'],solo_well,1.4492443147435483,0.4272229242068436,250,24,8,2021,catboost,MultiRMSE,0.26.1
