@@ -1,0 +1,2 @@
+,target,MSE,MAE,day,month,year,model,version
+0,MultiXRF,1.191573710498089,0.4546427955728561,25,8,2021,SVM-RBF,0.24.2
