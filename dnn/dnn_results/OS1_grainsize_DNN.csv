@@ -1,0 +1,2 @@
+,target,MSE,MAE,MaxError,day,month,year,model,version
+0,gz,0.9438451560807837,0.30111675480969247,5.126506542211915,25,8,2021,DNN,2.6.0
