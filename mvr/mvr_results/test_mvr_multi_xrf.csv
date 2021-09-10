@@ -1,0 +1,2 @@
+,target,MSE,MAE,day,month,year,model,version
+0,['Al' 'Ti' 'Si' 'Mg' 'Ca'],1.3544937027696768,0.6786579592058822,25,8,2021,MVR,0.24.2

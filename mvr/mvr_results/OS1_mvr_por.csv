@@ -1,0 +1,2 @@
+,target,MSE,MAE,MaxError,day,month,year,model,version
+0,['He_por'],2.0582936132539786,0.8461474215037192,8.13444228289444,25,8,2021,MVR,0.24.2

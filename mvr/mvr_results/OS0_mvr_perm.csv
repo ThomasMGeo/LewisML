@@ -1,0 +1,2 @@
+,target,MSE,MAE,MaxError,day,month,year,model,version
+0,['perm_klink_md'],102.50592289610088,49.35616792233658,413.81170370010597,25,8,2021,MVR,0.24.2

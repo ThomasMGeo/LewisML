@@ -1,0 +1,2 @@
+,target,MSE,MAE,MaxError,day,month,year,model,version
+0,['gz_pchip_interp'],1.3465439395444223,0.8503839585329023,5.2698721628391425,27,2,2021,MVR,0.22.2.post1
