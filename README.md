@@ -13,13 +13,21 @@ These are written as jupyter notebooks. Some packages you will need to install t
 python 3.7+
 
 **general data**
+
 lasio
+
 welly
+
 pandas
 
 
+
 **ML**
+
 catboost
+
 xgboost
+
 tensorflow 2 (ran on Google Colab)
+
 scikit-learn
