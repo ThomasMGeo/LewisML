@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LewisML
+message: >-
+  Please share and cite the upcoming paper if you use
+  these models! 
+type: software
+authors:
+  - given-names: Thomas Martin
+    affiliation: Colorado School of Mines
+    email: tpm319@gmail.com
+    orcid: ' https://orcid.org/0000-0002-4171-0004'
