@@ -12,7 +12,7 @@ These are written as jupyter notebooks. Some packages you will need to install t
 
 python 3.7+
 
-**general data**
+**general data prep**
 
 lasio
 
@@ -20,7 +20,7 @@ welly
 
 pandas
 
-
+numpy
 
 **ML**
 
@@ -30,4 +30,12 @@ xgboost
 
 tensorflow 2 (ran on Google Colab)
 
-scikit-learn
+scikit-learn (SVM & Linear Regression)
+
+**plotting**
+
+matplotlib
+
+seaborn
+
+
