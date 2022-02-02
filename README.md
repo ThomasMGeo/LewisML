@@ -3,7 +3,7 @@
 
 Machine Learning Regression Models of Lewis Fm. 
 
-These are the models and results assoicated with a paper about to be submitted to [The Sedimentary record](https://thesedimentaryrecord.scholasticahq.com/issues).
+These are the models and results assoicated with a paper about to be submitted to [The Sedimentary Record](https://thesedimentaryrecord.scholasticahq.com/issues).
 
 Expect more metadata and results to be here once the paper is published!
 
@@ -39,5 +39,3 @@ scikit-learn (SVM & Linear Regression)
 matplotlib
 
 seaborn
-
-
