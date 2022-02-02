@@ -35,7 +35,7 @@ def svm_gz(X_train, X_test, y_train, y_test, jobs=4, OS='os'):
     svm_rbf.fit(X_scaled_train, Y_scaled_train)
     preds = svm_rbf.predict(X_scaled_test)
 
-    preds_transformed = scaler_y.inverse_transform(preds)
+    preds_transformed = scaler_y.inverse_transform(preds.reshape(-1, 1))
 
     rmse1 = mean_squared_error(y_test, preds_transformed, squared=False)
     print("Mean Squared Error: %f" % (rmse1))
@@ -73,7 +73,7 @@ def svm_gz(X_train, X_test, y_train, y_test, jobs=4, OS='os'):
     svm_reg_rbf.fit(X_scaled_train, Y_scaled_train.ravel())
     preds_rbf = svm_reg_rbf.predict(X_scaled_test)
 
-    preds_transformed2 = scaler_y.inverse_transform(preds_rbf)
+    preds_transformed2 = scaler_y.inverse_transform(preds_rbf.reshape(-1, 1))
 
     rmse2 = mean_squared_error(y_test, preds_transformed2, squared=False)
     print("Mean Squared Error: %f" % (rmse2))
@@ -245,7 +245,7 @@ def svm_por(X_train, X_test, y_train, y_test, jobs, OS='os'):
     svm_rbf.fit(X_scaled_train, Y_scaled_train)
     preds = svm_rbf.predict(X_scaled_test)
 
-    preds_transformed = scaler_y.inverse_transform(preds)
+    preds_transformed = scaler_y.inverse_transform(preds.reshape(-1, 1))
 
     rmse1 = mean_squared_error(y_test, preds_transformed, squared=False)
     print("Mean Squared Error: %f" % (rmse1))
@@ -284,7 +284,7 @@ def svm_por(X_train, X_test, y_train, y_test, jobs, OS='os'):
     svm_reg_rbf.fit(X_scaled_train, Y_scaled_train)
     preds_rbf = svm_reg_rbf.predict(X_scaled_test)
 
-    preds_transformed2 = scaler_y.inverse_transform(preds_rbf)
+    preds_transformed2 = scaler_y.inverse_transform(preds_rbf.reshape(-1, 1))
 
     rmse2 = mean_squared_error(y_test, preds_transformed2, squared=False)
     print("Root Mean Squared Error: %f" % (rmse2))
