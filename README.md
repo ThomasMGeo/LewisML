@@ -3,9 +3,11 @@
 
 Machine Learning Regression Models of Lewis Fm. 
 
-These are the models and results assoicated with a paper about to be submitted to [The Sedimentary Record](https://thesedimentaryrecord.scholasticahq.com/issues).
+These are the models and results assoicated with a paper accepted! [The Sedimentary Record](https://thesedimentaryrecord.scholasticahq.com/issues).
 
-Expect more metadata and results to be here once the paper is published!
+Link to paper is [here](https://thesedimentaryrecord.scholasticahq.com/article/36638-digitalization-of-legacy-datasets-and-machine-learning-regression-yields-insights-for-reservoir-property-prediction-and-submarine-fan-evolution-a-sub)
+
+Data is in the supplimentary materials in the link above.
 
 Co-authors for the paper are Zane Jobe & Jared Tadla.
 
