@@ -3,7 +3,7 @@
 
 Machine Learning Regression Models of Lewis Fm. 
 
-These are the models and results assoicated with a paper accepted! [The Sedimentary Record](https://thesedimentaryrecord.scholasticahq.com/issues).
+These are the models and results associated with a paper accepted! [The Sedimentary Record](https://thesedimentaryrecord.scholasticahq.com/issues).
 
 Link to paper is [here](https://thesedimentaryrecord.scholasticahq.com/article/36638-digitalization-of-legacy-datasets-and-machine-learning-regression-yields-insights-for-reservoir-property-prediction-and-submarine-fan-evolution-a-sub)
 
